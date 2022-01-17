@@ -19,9 +19,9 @@ content:
   - Principal Investigators
   - 导师
   - Grad Students
-  - Administration
-  - 学生
-  - Alumni
+  - 博士研究生
+  - 硕士研究生
+  - 已毕业学生
 design:
   show_interests: false
   show_role: true
