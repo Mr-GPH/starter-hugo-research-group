@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 谭国强
+title: 郭鹏辉
 
 # Username (this should match the folder name)
 authors:
-- 谭国强
+- 郭鹏辉
 # Is this the primary user of the site?
 superuser: false
 
