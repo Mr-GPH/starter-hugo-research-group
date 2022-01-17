@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: tan123@bit.edu.cn
+phone: 134 8889 0550
 address:
   street: 北京市海淀区
   city: 中关村南大街
@@ -30,8 +30,8 @@ address:
   country: CHINA
   country_code: CN
 coordinates:
-  latitude: '39.9654'
-  longitude: '116.3277'
+  latitude: '39.9580'
+  longitude: '116.3096'
 directions: 北京理工大学中关村校区5号楼1012室
 office_hours:
   - '上午 08:30 to 12:00'
