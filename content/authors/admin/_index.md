@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 谭国强
+title: 王敬
 
 # Is this the primary user of the site?
 superuser: true
