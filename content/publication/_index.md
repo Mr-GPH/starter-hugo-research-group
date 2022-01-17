@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 研究成果
 view: 4
 
 header:
