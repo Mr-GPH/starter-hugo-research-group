@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王敬
+title: A王敬
 
 # Is this the primary user of the site?
 superuser: true
