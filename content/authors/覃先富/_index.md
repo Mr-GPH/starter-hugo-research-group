@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 2020级硕士研究生
 
 # Organizations/Affiliations
 organizations:
