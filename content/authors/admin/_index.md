@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 谭国强
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 北京理工大学材料学院教授
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 北京理工大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
