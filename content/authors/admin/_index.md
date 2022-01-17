@@ -3,7 +3,7 @@
 title: 谭国强
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: 北京理工大学材料学院教授
