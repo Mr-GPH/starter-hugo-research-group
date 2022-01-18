@@ -10,13 +10,13 @@ role: 教授、博士生导师
 
 # Organizations/Affiliations
 organizations:
-- name: 北京理工大学 材料学院   tan123@bit.edu.cn
+- name: 北京理工大学 材料学院   高比能绿色二次电池及其功能材料   tan123@bit.edu.cn
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-研究领域:
+interests:
 - 高比能绿色二次电池及其功能材料
 
 
