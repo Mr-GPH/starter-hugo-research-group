@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 副教授、硕士生导师
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 北京理工大学 材料学院
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

@@ -6,11 +6,11 @@ title: 谭国强
 superuser: false
 
 # Role/position
-role: 北京理工大学材料学院教授
+role: 教授、博士生导师
 
 # Organizations/Affiliations
 organizations:
-- name: 北京理工大学
+- name: 北京理工大学 材料学院
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
