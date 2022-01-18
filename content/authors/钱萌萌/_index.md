@@ -4,7 +4,7 @@ title: 萌萌
 
 # Username (this should match the folder name)
 authors:
-- C
+- 钱萌萌
 # Is this the primary user of the site?
 superuser: false
 

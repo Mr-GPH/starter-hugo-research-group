@@ -1,15 +1,15 @@
 ---
 # Display name
-title: 岳嘉盛
+title: 郭鹏辉
 
 # Username (this should match the folder name)
 authors:
-- A
+- 郭鹏辉
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2019级博士研究生
+role: 2021级博士研究生
 
 # Organizations/Affiliations
 organizations:
