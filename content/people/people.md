@@ -18,7 +18,7 @@ content:
   user_groups:
   - Principal Investigators
   - 导师
-  - Grad Students
+  - 博士后
   - 博士研究生
   - 硕士研究生
   - 已毕业学生
