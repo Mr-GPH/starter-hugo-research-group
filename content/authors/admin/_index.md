@@ -20,6 +20,10 @@ interests:
 - 高比能绿色二次电池及其功能材料
 
 
+interests:
+- 高比能绿色二次电池及其功能材料
+
+
 education:
   courses:
   - course: 硕博连读  工学博士
