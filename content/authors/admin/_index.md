@@ -10,7 +10,7 @@ role: 教授、博士生导师
 
 # Organizations/Affiliations
 organizations:
-- name: 北京理工大学 材料学院   tan123@bit.edu.cn   高比能绿色二次电池及其功能材料
+- name: 北京理工大学 材料学院   tan123@bit.edu.cn   
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,10 +24,10 @@ education:
   courses:
   - course: 博士后
     institution: 美国加州大学洛杉矶分校(UCLA)
-    year: 2003.9—2007.6
+    year: 2018.3—2018.11
   - course: 博士后
     institution:  美国阿贡国家实验室(ANL)
-    year: 2003.9—2007.6
+    year: 2014.10—2018.2
   - course: 硕博连读  工学博士
     institution: 北京理工大学
     year: 2007.9—2014.3
