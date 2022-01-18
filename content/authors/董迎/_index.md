@@ -1,7 +1,6 @@
 ---
 # Display name
 title: 董迎
-order:1
 
 # Username (this should match the folder name)
 authors:
