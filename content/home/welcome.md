@@ -8,6 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   欢迎您来到  
+<br>
   **谭国强课题组**
 hero_media: welcome.jpg
 design:
@@ -20,4 +21,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+谭国强课题组主要从事新能源绿色二次电池理论与技术领域的研究，在2019年于北京理工大学建立。
