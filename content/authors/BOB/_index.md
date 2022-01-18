@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 曹文泽
+title: bob
 
 # Username (this should match the folder name)
 authors:
-- 曹文泽
+- bob
 # Is this the primary user of the site?
 superuser: false
 
