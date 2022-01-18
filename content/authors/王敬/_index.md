@@ -13,8 +13,8 @@ role: 副教授、硕士生导师
 
 # Organizations/Affiliations
 organizations:
-- name: 北京理工大学 材料学院  
-tan123@bit.edu.cn
+- name: 北京理工大学 材料学院   tan123@bit.edu.cn
+
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
