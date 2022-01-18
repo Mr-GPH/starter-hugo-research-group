@@ -1,10 +1,10 @@
 ---
 # Display name
-title: A
+title: Admend
 
 # Username (this should match the folder name)
 authors:
-- 董迎
+- Admend
 # Is this the primary user of the site?
 superuser: false
 
