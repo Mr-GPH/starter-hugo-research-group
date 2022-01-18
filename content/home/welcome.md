@@ -8,9 +8,12 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   欢迎访问  
-|
-  谭国强课题组  
+谭国强课题组  
 
+=======
+  Wowchemy  
+  Research Group
+>>>>>>> parent of cf869d0 (更新 welcome.md)
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
