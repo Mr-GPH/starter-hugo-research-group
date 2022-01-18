@@ -17,21 +17,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 高比能绿色二次电池及其功能材料
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 硕博连读  工学博士
+    institution: 北京理工大学
+    year: 2007.9—2014.3
+  - course: 工学学士
+    institution: 湖南大学
+    year: 2003.9—2007.6
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,6 +51,4 @@ user_groups:
 - 博士生导师
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+北京理工大学特立青年学者、教授、博士生导师。入选国家教育部“长江学者奖励计划”青年项目。主要从事新能源绿色二次电池理论与技术领域的研究，包括对新能源材料、二次电池、同步辐射X射线技术、原位现场表征技术等多学科交叉基础研究、应用研究和技术平台的开发。主持国家自然基金面上等多项项目，作为研究骨干曾先后参与国家科技部973计划、美国能源部EERE和UCLA-Dynavolt中美国际合作等项目。以一作或通讯作者发表SCI论文30余篇，包括Nature Energy, Nature Communications, Adv. Mater., Adv. Energy Mater., Adv. Funct. Mater., Nano Lett., Nano Energy等国际知名学术期刊论文。讲授5门本科生基础课程和1门全英文研究生专业课程，指导4项大学生创新项目，获评优秀班主任称号，获北京理工大学特立青年学者和鸿材教师奖荣誉。
