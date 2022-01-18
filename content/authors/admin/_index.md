@@ -19,18 +19,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 高比能绿色二次电池及其功能材料
 
- - course: 硕博连读  工学博士
-    institution: 北京理工大学
-    year: 2007.9—2014.3
 
 education:
   courses:
+  - course: 博士后
+    institution: 美国加州大学洛杉矶分校(UCLA)
+    year: 2003.9—2007.6
+  - course: 博士后
+    institution:  美国阿贡国家实验室(ANL)
+    year: 2003.9—2007.6
   - course: 硕博连读  工学博士
     institution: 北京理工大学
     year: 2007.9—2014.3
   - course: 工学学士
     institution: 湖南大学
     year: 2003.9—2007.6
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
