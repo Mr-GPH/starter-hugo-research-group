@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   欢迎您来到  
-<br>
+
   **谭国强课题组**
 hero_media: welcome.jpg
 design:
