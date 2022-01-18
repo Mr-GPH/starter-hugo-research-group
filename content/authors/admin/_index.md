@@ -19,10 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 高比能绿色二次电池及其功能材料
 
-
-interests:
-- 高比能绿色二次电池及其功能材料
-
+ - course: 硕博连读  工学博士
+    institution: 北京理工大学
+    year: 2007.9—2014.3
 
 education:
   courses:
