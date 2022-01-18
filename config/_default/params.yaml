@@ -51,7 +51,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: false
 
 # Localization
@@ -67,10 +67,10 @@ math: false
 diagram: false
 privacy_pack: false
 show_related:
-  post: true
-  project: true
-  publication: true
-  talk: true
+  post: false
+  project: false
+  publication: false
+  talk: false
 reading_time: true
 section_pager: false
 sharing: true
