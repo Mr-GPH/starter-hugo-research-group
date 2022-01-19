@@ -71,9 +71,9 @@ show_related:
   project: false
   publication: false
   talk: false
-reading_time: true
+reading_time: false
 section_pager: false
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
