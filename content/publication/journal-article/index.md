@@ -1,6 +1,7 @@
 ---
 title: "An example journal article"
 authors:
+- 萌萌
 - Robert Ford
 author_notes:
 - "Equal contribution"
